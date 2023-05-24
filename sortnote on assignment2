@@ -1,0 +1,26 @@
+# DS_Assignment2
+Using Dataset to perform data manipulation tasks using pandas and creating  different types of visualizations using Matplotlib and seaborn ,EDA on taken dataset and generating Summary statistics,Visualizations. 
+Data Manipulation:
+Pandas are used for Data manipulation.
+Using  data manipulation we can sort a table on the basis of keys that will be passed as parameters to the function .
+Allows you to easily access the information that's critical to your specific business and goals. 
+Data manipulation is also a valuable tool for identifying and correcting data redundancies in report.
+It allows  to group similar data, which may make it easier to search for information.
+With data manipulation, companies can remove non-useful data insights and clean inaccurate data to provide accurate results.
+Data visualization:
+Data visualization plays a significant role in the representation of both small and large data sets, but it is especially useful when we have large data sets, in which it is impossible to see all of our data, let alone process and understand it manually.
+Matplotlib and Seaborn are python libraries that are used for data visualization. They have inbuilt modules for plotting different graphs. While Matplotlib is used to embed graphs into applications, Seaborn is primarily used for statistical graphs.
+Matplotlib:
+It is used for basic graph plotting like line charts,  bar graphs, etc. It mainly works with datasets and arrays.
+Seaborn:
+It is mainly used for statistics visualization and can perform complex visualizations with fewer commands.
+It works with entire datasets.
+Data Analysis:
+Data Analysis is essential as it helps businesses understand their customers better, improves sales, improves customer targeting, reduces costs, and allows for the creation of better problem-solving strategies. 
+In this repository taken data is about attendence of students in a school per year month wise.
+Taken parameters are roll numbers, names, months ,total working days,total attendence,attendence percentage .
+In this data sheet  80% of attendence is there for 90 percent of students .Only few students are irregular.
+
+
+
+
